@@ -4,3 +4,4 @@ Projeto realizado durante o curso de Html e Css do [Cursoemvídeo](https://www.c
 
 ## 💻 Tecnoligia utlizada
 - html
+- Css
